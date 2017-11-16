@@ -1,0 +1,13 @@
+[31-Jul-2017 00:11:34 CST6CDT] PHP Fatal error:  Call to a member function getGraphUser() on null in /home/refinedseo/getratings.ca/fbapi/index.php on line 63
+[31-Jul-2017 00:11:44 CST6CDT] PHP Fatal error:  Call to a member function getGraphUser() on null in /home/refinedseo/getratings.ca/fbapi/index.php on line 63
+[31-Jul-2017 01:57:26 CST6CDT] PHP Fatal error:  Call to a member function getValue() on null in /home/refinedseo/getratings.ca/fbapi/index.php on line 59
+[31-Jul-2017 01:57:54 CST6CDT] PHP Fatal error:  Call to a member function getValue() on null in /home/refinedseo/getratings.ca/fbapi/index.php on line 59
+[31-Jul-2017 02:26:05 CST6CDT] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/refinedseo/getratings.ca/fbapi/page2.php on line 8
+[31-Jul-2017 02:26:37 CST6CDT] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/refinedseo/getratings.ca/fbapi/page2.php on line 8
+[31-Jul-2017 02:27:01 CST6CDT] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/refinedseo/getratings.ca/fbapi/page2.php on line 10
+[31-Jul-2017 02:27:27 CST6CDT] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/refinedseo/getratings.ca/fbapi/page2.php on line 10
+[31-Jul-2017 02:27:59 CST6CDT] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/refinedseo/getratings.ca/fbapi/page2.php on line 10
+[31-Jul-2017 02:30:30 CST6CDT] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/refinedseo/getratings.ca/fbapi/page2.php on line 10
+[31-Jul-2017 02:54:59 CST6CDT] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/refinedseo/getratings.ca/fbapi/page2.php on line 10
+[31-Jul-2017 02:58:00 CST6CDT] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/refinedseo/getratings.ca/fbapi/index.php on line 81
+[31-Jul-2017 04:01:51 CST6CDT] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home/refinedseo/getratings.ca/fbapi/page2.php on line 10
